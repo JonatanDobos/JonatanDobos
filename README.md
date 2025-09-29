@@ -1,5 +1,5 @@
 
-## Welcome to Jonatan Dobos' GitHub!
+## Welcome to my GitHub!
 
 ### What you will find:
 - Codam Coding College (Amsterdam, part of 42-network) coding projects. (All these repositories have '_42' at the end)
