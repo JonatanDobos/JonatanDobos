@@ -6,4 +6,4 @@
 - Personal projects and experimenting.
 
 Programming is one of the most usefull skills one can have these days. That is also the part where my interest for coding resides.  
-It is a beatiful thing to be able to create fully custom tools for every unique challenge we face.
+It is a beatiful thing to be able to create fully custom tools for every unique challenge we face :).
