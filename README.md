@@ -17,3 +17,6 @@ ___
   This program also includes several modes, for example: drawing the Julia fractal based on the coordinates in the Mandelbrot set pointed to by the cursor in real time.
 - [Philosophers_42](https://github.com/JonatanDobos/Philosophers_42): a program that simulates dining philosophers based on the famous "Dining Philosophers Problem".  
   This program simulates X amount of philosophers sitting around a table eating pasta with two forks while there is only one fork between two adjacent philosophers (which they can't use simultaniously), if they are not eating they can only think and sleep for a given time before starving. The program is designed to make the philosophers eat at the right interval based on the given parameters (philosopher amount, eat-, think- and sleep-time) by assigning the right fork (mutex) to the right philosopher (thread) at the right time.
+
+###### All programs need to be run from a terminal environment.
+###### Most programs are only compatible with Mac and Linux system, when using a different system the use of a virtual machine is adviced.
